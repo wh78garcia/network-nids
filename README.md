@@ -5,6 +5,15 @@
 
 This project implements a Network Intrusion Detection System (NIDS) server with an accompanying test client that generates both normal and malicious network traffic for testing purposes. The system is designed to detect various types of suspicious network activities in real-time.
 
+## Project Benefits Summary
+- **Enhanced Efficiency**: Automates network traffic analysis, allowing for quicker threat detection compared to manual methods.
+
+- **Proactive Threat Detection**: Identifies suspicious activities in real-time, enabling timely responses and reducing the risk of breaches.
+
+- **Comprehensive Reporting**: Provides detailed logs and statistics, facilitating informed decision-making and improving overall security assessments.
+
+
+
 ## Table of Contents
 - [Features](#features)
 - [Components](#components)
